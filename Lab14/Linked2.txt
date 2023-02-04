@@ -1,0 +1,8 @@
+book
+notebook
+pen
+pencil
+pencilbox
+ruller
+new 1
+new 2
